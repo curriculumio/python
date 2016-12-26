@@ -1,0 +1,66 @@
+{
+    "title": "Fundamentals",
+    "text": "Learn the basics of the Python programming language.",
+    "objective": "learn the basics of Python",
+    "type": "lesson",
+    "length": 60,
+    "author": [
+        "keshavsaharia"
+    ],
+    "section": [
+        {
+            "template": "split-python",
+            "title": "Values",
+            "text": "A value is a unit of information, like numbers and text.",
+            "id": "value"
+        },
+        {
+            "template": "split-python",
+            "title": "Math Operators",
+            "text": "Math operators are symbols that combine two values into a single one.",
+            "id": "math-operator"
+        },
+        {
+            "template": "split-python",
+            "title": "Variables",
+            "text": "A variable is a named container for storing a value.",
+            "id": "variable"
+        },
+        {
+            "template": "split-python",
+            "title": "Functions",
+            "text": "A function is an action the computer knows how to perform.",
+            "id": "function"
+        },
+        {
+            "template": "split-python",
+            "title": "Function call",
+            "text": "A function call instructs the computer to perform a certain function.",
+            "id": "function-call"
+        },
+        {
+            "template": "split-python",
+            "title": "Return Values",
+            "text": "A function call can return a new value.",
+            "id": "return-value"
+        },
+        {
+            "template": "split-python",
+            "title": "Data Types",
+            "text": "Every value has a data type, which describes how it can be combined with other values.",
+            "id": "data-type"
+        },
+        {
+            "template": "split-python",
+            "title": "Booleans",
+            "text": "A boolean value is either true or false.",
+            "id": "boolean"
+        },
+        {
+            "template": "split-python",
+            "title": "Logic Operators",
+            "text": "A logic operator combines boolean values.",
+            "id": "logic-operator"
+        }
+    ]
+}

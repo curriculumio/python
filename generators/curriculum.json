@@ -1,0 +1,19 @@
+{
+    "title": "Generators",
+    "text": "A generator expression creates a list",
+    "objective": "learn to write generator expressions",
+    "type": "lesson",
+    "length": 60,
+    "section": [
+        {
+            "title": "Generators",
+            "text": "A generator expression is enclosed in square brackets (`[` and `]`)",
+            "id": "syntax"
+        },
+        {
+            "title": "Generate ranges",
+            "text": "A generator expression creates a new list of numbers by applying an expression to every value in a list.",
+            "id": "range"
+        }
+    ]
+}

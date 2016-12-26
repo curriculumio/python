@@ -1,0 +1,57 @@
+{
+    "title": "Strings",
+    "text": "A string is a sequence of characters.",
+    "objective": "learn to combine and manipulate strings",
+    "type": "lesson",
+    "length": 60,
+    "section": [
+        {
+            "title": "Length",
+            "text": "The <code>len</code> function returns the length of a string.",
+            "id": "length"
+        },
+        {
+            "title": "Indexes",
+            "text": "Each character in a string is referred to by an index.",
+            "id": "index"
+        },
+        {
+            "title": "Index Range",
+            "text": "A subsequence of characters in a string can be referred to by specifying a starting and ending index.",
+            "id": "index-range"
+        },
+        {
+            "title": "Immutability",
+            "text": "Strings cannot be modified after they are created.",
+            "id": "immutability"
+        },
+        {
+            "title": "Pig Latin",
+            "text": "Translate words from English into Pig Latin.",
+            "id": "pig-latin"
+        },
+        {
+            "title": "String Functions",
+            "text": "Strings are virtual objects that can perform certain functions on their contents.",
+            "id": "string-function"
+        },
+        {
+            "template": "exercises",
+            "exercise": [],
+            "title": "String Exercises",
+            "text": "A series of practice problems involving strings.",
+            "id": "string-exercises"
+        },
+        {
+            "template": "exercises",
+            "exercise": {
+                "nucleotides": "Count the nucleotides",
+                "complementing": "Print the complementary DNA string",
+                "transcription": ""
+            },
+            "title": "DNA Exercises",
+            "text": "A series of practice problems to introduce Python's application to bioinformatics.",
+            "id": "dna-exercises"
+        }
+    ]
+}

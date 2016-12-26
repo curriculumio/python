@@ -1,0 +1,13 @@
+{
+    "title": "Lists",
+    "text": "Lists are ordered sequences of values.",
+    "objective": "manipulate and analyze lists of information.",
+    "type": "lesson",
+    "length": 60,
+    "section": [
+        {
+            "title": "Lists are Sequences",
+            "id": "list"
+        }
+    ]
+}

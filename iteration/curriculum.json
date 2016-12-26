@@ -1,0 +1,33 @@
+{
+    "title": "Iteration",
+    "text": "Use statements to repeatedly perform instructions in problem solving.",
+    "objective": "learn to repeat instructions",
+    "type": "lesson",
+    "length": 60,
+    "section": [
+        {
+            "title": "While Loop",
+            "text": "",
+            "id": "while"
+        },
+        {
+            "title": "Collatz Conjecture",
+            "id": "collatz-conjecture"
+        },
+        {
+            "template": "exercises",
+            "exercise": {
+                "print-sequence": "Print the Collatz sequence.",
+                "longest-sequence": "Find the longest Collatz sequence for a starting number between 1 and 1000.",
+                "length-ratio": "Find the starting number between 1 and 1,000,000 that has the smallest ratio between the number and collatz length."
+            },
+            "id": "collatz"
+        },
+        {
+            "template": "exercise",
+            "title": "Fizz Buzz",
+            "text": "Print the numbers 1 to 100, but print \"fizz\" instead of multiples of 3 and \"buzz\" instead of multiples of 5.",
+            "id": "fizz-buzz"
+        }
+    ]
+}

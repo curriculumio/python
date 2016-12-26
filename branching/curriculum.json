@@ -1,0 +1,50 @@
+{
+    "title": "Branching",
+    "text": "Control the flow of instructions in a program.",
+    "objective": "learn to control whether an instruction is performed",
+    "type": "lesson",
+    "length": 60,
+    "section": [
+        {
+            "template": "split-python",
+            "title": "Block",
+            "text": "A block is a group of instructions, indicated by indentation.",
+            "id": "block"
+        },
+        {
+            "template": "split-python",
+            "title": "If statement",
+            "text": "An if statement performs a block of instructions if a condition is true.",
+            "id": "if"
+        },
+        {
+            "template": "split-python",
+            "title": "Conditions",
+            "text": "A condition is any expression that produces a true or false value.",
+            "id": "condition"
+        },
+        {
+            "template": "split-python",
+            "title": "Else statement",
+            "text": "An else block is performed if the condition of the preceding if statement is false.",
+            "id": "else"
+        },
+        {
+            "template": "split-python",
+            "title": "If-else",
+            "id": "if-else"
+        },
+        {
+            "template": "split-python",
+            "title": "Elif statements",
+            "text": "An elif's condition is checked if no previous if or elif condition is true.",
+            "id": "elif"
+        },
+        {
+            "template": "split-python",
+            "title": "If-elif-else",
+            "text": "",
+            "id": "if-elif-else"
+        }
+    ]
+}

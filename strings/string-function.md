@@ -1,0 +1,1 @@
+A string function is

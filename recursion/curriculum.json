@@ -1,0 +1,16 @@
+{
+    "title": "Recursion",
+    "text": "Solve problems by breaking them down into smaller instances of themselves.",
+    "objective": "learn to think recursively",
+    "type": "lesson",
+    "section": [
+        {
+            "title": "Factorial",
+            "id": "factorial"
+        },
+        {
+            "title": "Fibonacci sequence",
+            "id": "fibonacci"
+        }
+    ]
+}

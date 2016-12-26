@@ -1,0 +1,43 @@
+{
+    "title": "Python",
+    "text": "Python is a great programming language for beginners.",
+    "objective": "learn computational thinking and creative problem solving with Python",
+    "topic": "computer science",
+    "language": "python",
+    "color": "purple",
+    "author": [
+        "keshavsaharia"
+    ],
+    "start": [
+        "terminal",
+        "editor"
+    ],
+    "path": [
+        {
+            "title": "Python Fundamentals",
+            "text": "Everything you need to know to solve computation problems with Python.",
+            "objective": "use Python to solve mathematics and computation problems",
+            "lesson": [
+                "fundamentals",
+                "branching",
+                "iteration",
+                "strings",
+                "lists",
+                "dictionary",
+                "functions"
+            ],
+            "id": "basics"
+        },
+        {
+            "title": "Advanced Python",
+            "text": "Advanced capabilities of the Python programming language.",
+            "objective": "learn all of the features of the Python programming language",
+            "lesson": [
+                "lambdas",
+                "generators",
+                "recursion"
+            ],
+            "id": "advanced"
+        }
+    ]
+}
